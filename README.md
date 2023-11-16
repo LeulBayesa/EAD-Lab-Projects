@@ -65,5 +65,9 @@ git clone https://github.com/leulbayesa/SimpleEmployeeManagementSystem.git
 
 ![Demo Home](https://github.com/LeulBayesa/SimpleEmployeeManagementSystem/blob/master/Img/Home.png)
 ![Demo Employee-List ](https://github.com/LeulBayesa/SimpleEmployeeManagementSystem/blob/master/Img/Employees-list.png)
+![Demo Employee-List ](https://github.com/LeulBayesa/SimpleEmployeeManagementSystem/blob/master/Img/Edit-Emloyees-Record.png)
+
+![Demo Employee-List ](https://github.com/LeulBayesa/SimpleEmployeeManagementSystem/blob/master/Img/Success-msg.png)
+![Demo Employee-List ](https://github.com/LeulBayesa/SimpleEmployeeManagementSystem/blob/master/Img/Success-msg.png2)
 
 
