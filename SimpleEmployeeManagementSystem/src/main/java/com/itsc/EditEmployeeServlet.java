@@ -50,6 +50,7 @@ private static final long serialVersionUID = 1L;
             ResultSet rs = ps.executeQuery();
             rs.next();
             pw.println("<div class='card' style='margin:auto;width:400px;margin-top:100px;'>");
+            pw.println("<center><h2 class=\"bg-success text-white card-header\">Edit Employee Record</h2></center>");
             pw.println("<form action='edit?id="+id+"' method='post' class=\"form card\">");
             pw.println("<table class='table table-hover table-striped'>");
             pw.println("<tr>");
