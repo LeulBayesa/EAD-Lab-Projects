@@ -58,7 +58,7 @@ This repository contains a basic web calculator application implemented using Ja
 
 Clone the repository:
 ```bash
-git clone https://github.com/leulbayesa/SimpleEmployeeManagementSystem.git
+git clone https://github.com/Leulbayesa/EAD-Lab-Projects.git
 ```
 
 ## Demo
