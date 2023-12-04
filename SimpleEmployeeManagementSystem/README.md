@@ -58,7 +58,7 @@ This is a basic Employee Management System implemented using Java servlets, JDBC
 
 Clone the repository:
 ```bash
-git clone https://github.com/leulbayesa/SimpleEmployeeManagementSystem.git
+git clone https://github.com/Leulbayesa/EAD-Lab-Projects.git
 ```
 
 ## Demo
